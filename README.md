@@ -32,6 +32,7 @@ $ npm install --global backstop-crawl
     --limit-similar[=3]  Limits the number of similar URLs to a set number
                          Defaults to 3
                           e.g /blog/1, /blog/2, /blog/3
+    --strip-querystring  Strips the query string from URLs
     --reference-url  Allows a reference URL to be used in testing
 
   Examples
